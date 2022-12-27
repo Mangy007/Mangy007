@@ -6,7 +6,7 @@
 <p align="left">
 <a href="https://twitter.com/mangalamkumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mangalamkumar" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://in.linkedin.com/in/kumar-mangalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://in.linkedin.com/in/kumar-mangalam" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/9109692/kumar-mangalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9109692/kumar-mangalam" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/9109692/kumar-mangalam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/9109692/kumar-mangalam" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/https://leetcode.com/m_eight/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/m_eight/" height="30" width="40" /></a>
 </p>
 
